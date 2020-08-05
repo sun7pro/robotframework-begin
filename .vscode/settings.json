@@ -1,0 +1,12 @@
+{
+  "rfLanguageServer.libraries": [
+    "BuiltIn-3.2.1",
+    "DateTime-3.2.1",
+    "Dialogs-3.2.1",
+    "RequestsLibrary-0.7.0",
+    "SeleniumLibrary-4.4.0",
+    "String-3.2.1",
+    "Collections-3.2.1",
+    "AppiumLibrary-1.5.0.4"
+  ]
+}
